@@ -22,7 +22,7 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
 
 
 
-## Project Instructions
+## Project Instructions 
 
 All of the starting code and resources you'll need to compete this project are in this Github repository. Before you can get started coding, you'll have to make sure that you have all the libraries and dependencies required to support this project. If you have already created a `cv-nd` environment for [exercise code](https://github.com/udacity/CVND_Exercises), then you can use that environment! If not, instructions for creation and activation are below.
 
@@ -42,7 +42,7 @@ cd P1_Facial_Keypoints
 	- __Linux__ or __Mac__: 
 	```
 	conda create -n cv-nd python=3.6
-	source activate cv-nd
+	source activate cv-nd 
 	```
 	- __Windows__: 
 	```
